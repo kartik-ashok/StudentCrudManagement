@@ -1,0 +1,33 @@
+/* styles.css */
+
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+
+form {
+  border: 2px solid #ccc;
+  margin: 0 auto;
+  padding: 20px;
+  width: 50%;
+}
+
+input[type="text"] {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
