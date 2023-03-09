@@ -13,7 +13,7 @@
 <input type="text" placeholder="enter a name" name="name">
 <input type="text" placeholder="enter a percentage" name="percentage">
 <input type="text" placeholder="enter a phno" name="phno">
-<button>Update</button>
+<button>UPDATE</button>
 </form>
 </body>
 </html>

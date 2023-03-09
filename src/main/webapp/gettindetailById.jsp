@@ -14,7 +14,7 @@
 		<p>Percentage:${value.percentage}</p>
 		<p>Phone:${value.phno}</p>
 	</div>
-    <button class="btn">Home</button>
+    <button class="btn">HOME</button>
   </form>
 
 </body>

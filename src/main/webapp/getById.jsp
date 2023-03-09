@@ -9,7 +9,7 @@
    <form action="getting">
    <label for="inputField">Enter your Id:</label>
     <input type="text" id="inputField" name="id">
-    <button class="btn">Submit</button>
+    <button class="btn">SUBMIT</button>
    </form>
   </div>  
 </body>

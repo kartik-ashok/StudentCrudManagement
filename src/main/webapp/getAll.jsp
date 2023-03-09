@@ -44,7 +44,7 @@
     </table>
     <br>
     <div class="button-container">
-		<a href="./button.jsp"><button class="submit-button">Homepage</button></a>
-		<button class="print-button" onclick="window.print()">Print</button>
+		<a href="./button.jsp"><button class="submit-button">HOME-PAGE</button></a>
+		<button class="print-button" onclick="window.print()">PRINT</button>
 	</div></body>
 </html>

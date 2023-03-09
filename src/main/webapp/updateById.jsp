@@ -10,7 +10,7 @@
 <body>
 <form action="update">
 <input type="text" placeholder="enter your id" name=id>
-<button>submit</button>
+<button>SUBMIT</button>
 </form>
 </body>
 </html>

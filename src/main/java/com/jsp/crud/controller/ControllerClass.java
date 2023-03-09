@@ -115,5 +115,4 @@ public class ControllerClass
 		studentService.delAll();
 		return "button.jsp";
 	}
-	
 }

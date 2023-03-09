@@ -17,12 +17,12 @@
 
 
 <div class="button-container">
-  <a href="/Add.jsp"><button class="center-button">Add Student</button></a>
-  <a href="./delete.jsp"><button class="center-button">Delete Student</button></a>
-  <a href="/updateById.jsp"><button class="center-button">Update Student</button></a>
-  <a href="./getById.jsp"> <button class="center-button">getBidId</button></a>
-  <form action="delall"> <button class="center-button">Delete All</button></form>
-  <form action="getalld"><a href="./getAll.jsp"><button class="center-button">GetAll</button></a></form>
+  <a href="/Add.jsp"><button class="center-button">ADD STUDENT</button></a>
+  <a href="./delete.jsp"><button class="center-button">DELETE STUDENT BY ID</button></a>
+  <a href="/updateById.jsp"><button class="center-button">UPDATE STUDENT BY ID</button></a>
+  <a href="./getById.jsp"> <button class="center-button">GET STUDENT BY ID</button></a>
+  <form action="delall"> <button class="center-button">DELET ALL</button></form>
+  <form action="getalld"><a href="./getAll.jsp"><button class="center-button">GETALL</button></a></form>
 </div>	
 </body>
 </html>  

@@ -9,7 +9,7 @@
 <body>
 	<form action="dlt">
 		<input type="number" id="my-textbox" name="id" placeholder="Enter your text here">
-		<button onclick="showMessage()">Submit</button>
+		<button onclick="showMessage()">SUBMIT</button>
 	</form>
 </body>
 </html>
